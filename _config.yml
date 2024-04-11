@@ -4,14 +4,14 @@ subtitle: Ph.D. Student
 email: mabellanger26@gmail.com
 description: Ph.D. student in Bioinformatics and Computational Biology at UNC Charlotte.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: madelinebellager.github.io # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 9201 University City Blvd.
+city: Charlotte
+state: NC
+zip_code: 28223
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

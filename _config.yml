@@ -3,7 +3,7 @@ title: Madeline Bellanger
 subtitle: Ph.D. Student
 email: mabellanger26@gmail.com
 description: Ph.D. student in Bioinformatics and Computational Biology at UNC Charlotte.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: madelinebellager.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road

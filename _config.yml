@@ -34,7 +34,7 @@ socials:
 # build settings
 markdown: kramdown
 
-remote-theme: forty-jekyll-theme
+remote_theme: madelinebellanger/forty-jekyll-theme
 
 sass:
   style: compressed
